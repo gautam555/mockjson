@@ -3,5 +3,5 @@
     { "id": 2, "name": "Judy", "age": 31, "gender": "Female"},
     { "id": 3, "name": "Jack", "age": 41, "gender": "Male"}, 
     { "id": 4, "name": "Gautam", "age": 32, "gender": "Male"},
-    { "id": 5, "name": "Sowjanya", "age": 30, "gender": "Female"},
+    { "id": 5, "name": "Sowjanya", "age": 30, "gender": "Female"}
   ]
